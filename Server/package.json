@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hashir-Akbar/Ecommerce-MERN.git"
+  },
+  "keywords": [
+    "Ecommerce",
+    "MERN"
+  ],
+  "author": "Hashir Akbar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hashir-Akbar/Ecommerce-MERN/issues"
+  },
+  "homepage": "https://github.com/Hashir-Akbar/Ecommerce-MERN#readme",
+  "description": ""
+}
