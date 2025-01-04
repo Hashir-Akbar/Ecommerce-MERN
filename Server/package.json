@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-server",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,8 @@
     "url": "https://github.com/Hashir-Akbar/Ecommerce-MERN/issues"
   },
   "homepage": "https://github.com/Hashir-Akbar/Ecommerce-MERN#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
