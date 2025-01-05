@@ -15,3 +15,7 @@ React || Tailwind CSS || Material UI
 ## Server
 
 Node JS || Express || MongoDB
+
+## Node Version
+
+Node = v22.12.0
