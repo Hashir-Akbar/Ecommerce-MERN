@@ -19,3 +19,7 @@ Node JS || Express || MongoDB
 ## Node Version
 
 Node = v22.12.0
+
+## Postman URL
+
+https://www.postman.com/aerospace-specialist-27339868/workspace/ecommerce-mern
