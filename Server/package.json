@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node --env-file-if-exists=.env --watch ./src/app.js"
+    "dev": "node --env-file-if-exists=.env --watch ./src/app.js",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,10 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.4",
+    "typescript": "^5.7.3"
   }
 }
